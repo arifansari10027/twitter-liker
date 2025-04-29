@@ -29,6 +29,9 @@ To use this script, apply for Elevated Access here:
    - API Secret
    - Access Token
    - Access Token Secret
+  
+![Screenshot](https://github.com/arifansari10027/twitter-liker/blob/main/twitter-api-page.png)
+
 3. Fill them in the `.env` file.
 
 ---
